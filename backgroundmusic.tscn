@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://c6enyoynh3k0f"]
+
+[ext_resource type="AudioStream" uid="uid://d3kfsj2qitk2x" path="res://Walen - HEADPHONK (freetouse.com).mp3" id="1_2bmh7"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" unique_id=1509458024]
+stream = ExtResource("1_2bmh7")
+autoplay = true
